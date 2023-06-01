@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Memet2q
-- 👀 I’m interested in web developmwnt
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning basic of javascript
 - 📫 How to reach me ...
 
